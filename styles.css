@@ -1,2 +1,11 @@
+/* SET VARS HERE */
+:root {
 
-@media (prefers-color-scheme: dark) {}
+}
+
+/* SET DARKMODE VARS HERE */
+@media (prefers-color-scheme: dark) {
+    :root {
+
+    }
+}
